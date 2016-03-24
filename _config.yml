@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: captainjeck
-baseurl: /StrayBirds
+baseurl: /test
 markdown: redcarpet
 safe: false
 highlighter: pygments
